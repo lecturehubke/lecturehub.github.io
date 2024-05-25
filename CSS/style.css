@@ -1,0 +1,28 @@
+header{
+    color:white; 
+    background-color: #3b5998;
+    padding: 10px 20px;
+       display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ 
+footer {
+    background-color: #3b5998;
+    color: #fff;
+    padding: 10px 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.login-form {
+    text-align: right;
+     margin-right: 0px;
+
+}
+body{
+    font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e3ebf7;
+}
